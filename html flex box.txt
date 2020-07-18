@@ -1,0 +1,68 @@
+RESPONSIVE DESIGN
+-->FLEXBOX:
+    -->Viewport:
+    <meta name="viewport content="width=device width,initialscale=1.0">
+  <!-- padding-top: 8%;
+         padding-bottom: 6%;
+         padding-left: 5%;
+         margin-top: 3%;
+         margin-right: 5%;
+         margin-left: 5%; -->
+ flexbox:
+    --->DISPLAY:FLEX;
+     *flex-direction:
+       -->row
+       --->Row-reverse
+       -->column
+       --->column-reverse
+JUSTIFY-CONTENT:
+  -->FLEX-START
+  -->flex-end
+   -->center 
+   --->space-between 
+   --->space-around
+flex-wrap:
+   -->wrap 
+   -->wrap-reverse 
+   -->nowrap 
+Align-items:
+--->flex-start
+--->flex-end center
+=====*BOOTSTRAP*=====:
+---->this is nothing but the most popular HTML,CSS and JS framewroks.
+--->frontend framewrok
+-->easy to use and easy to download
+-->it is a open source
+-->for developing the responsive web designing
+-->it can also use jquery plugins
+-->it is used for faster web developing
+-->bootstrap was developed by ooto and jacob at twitter.
+-->chrome,opera like all thpes of browsers 
+-->the current version is bootstrap4
+-->campared to 3,4 has more features and buttons etc......
+ ***responsive:a wedsite which can automatically adjust itself good appropriate in any type of devices 
+=====*BOOTSTRAP PACKAGES*=====:
+SCAFFOLDING 
+CSS
+COMPONENTS
+JAVASCRIPT PLUGINS
+CUSTOMIZE
+WHERE WE GET BOOTSTRAP:
+-->ONLINE:
+   -->we have to include bootstrap 4 from a CDN (content delivery netwrok)
+-->OFFLINE:
+    --->we have to download bootstrap 4 from bootstrap.com
+primary
+seconary
+success
+danger
+warning
+info
+dark
+light
+body
+muted
+white
+CONTAINER:
+=>container
+
